@@ -43,6 +43,7 @@ Once installed, start initialization by following commands.
 firebase login
 firebase init
 ```
-
+ https://ipfs.io/QmUKUifQm9rQ2F6UJCGgNWVfGML5FM59MYK4tQLxNUjRfM
 ## Reference
-- [NetNinja Firebase functions](https://youtube.com/playlist?list=PL4cUxeGkcC9i_aLkr62adUTJi53y7OjOf)
+- [NetNinja : Firebase 9](https://www.youtube.com/watch?v=9zdvmgGsww0&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb)
+- [NetNinja : Firebase functions](https://youtube.com/playlist?list=PL4cUxeGkcC9i_aLkr62adUTJi53y7OjOf)
